@@ -3,6 +3,8 @@
 ## Description
 Small application as a first C++ project to patch the Witcher3.exe and enable cutscenes rendered ingame to render at proper aspect ratio (Removing black bars).
 
+Tested on:
+    Patch 4.0 > 3440x1440
 Based on:
     https://vulkk.com/2021/06/27/how-to-fix-witcher-3-ultrawide-cutscenes-no-black-bars/
 
